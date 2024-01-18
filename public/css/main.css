@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(151, 207, 207);
+    color: aliceblue;
+}
+
+a {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+a:hover {
+    background-color: white;
+    color:black ;
+}
